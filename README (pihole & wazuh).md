@@ -110,10 +110,16 @@ Expected: Phase 3 shows rule `100101`, level 5, "Alert to be generated".
 
 **Result:** 103 alerts, each with the agent name (`pihole`), the log file location, and the full log line showing the blocked domain.
 
-> Screenshots: add them to a `screenshots/` folder and link them here.
->
-> `![Pi-hole query log](screenshots/pihole-query-log.png)`
-> `![Wazuh Discover alerts](screenshots/wazuh-discover.png)`
+<img width="771" height="348" alt="Screenshot 2026-10-23 002038" src="https://github.com/user-attachments/assets/2e73dfab-97a2-4e76-b283-e478cb31779b" />
+
+<img width="945" height="751" alt="Screenshot 2026-10-23 001312" src="https://github.com/user-attachments/assets/81d2c2c4-5ed5-45f9-8ab1-fb4fcca45a2c" />
+
+<img width="728" height="83" alt="Screenshot 2026-10-23 001125" src="https://github.com/user-attachments/assets/e7ab8a80-48b2-41ce-a94c-ef6be54f7a37" />
+
+<img width="1508" height="713" alt="Screenshot 2026-10-22 235015" src="https://github.com/user-attachments/assets/5a26d7b8-4691-4cb9-84bd-4ebbf06ddbfc" />
+
+<img width="1906" height="947" alt="Screenshot 2026-10-22 053713" src="https://github.com/user-attachments/assets/0a9804d2-fb44-44f3-a8db-9e101126c6bb" />
+
 
 ---
 
